@@ -1,0 +1,7 @@
+# files
+.env
+
+# folders
+node_modules/
+# temporary local storage until API is deployed
+posts/
